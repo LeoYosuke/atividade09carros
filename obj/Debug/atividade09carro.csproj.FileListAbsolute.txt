@@ -1,0 +1,7 @@
+C:\Users\leoyo\source\repos\atividade09carro\atividade09carro\bin\Debug\atividade09carro.exe.config
+C:\Users\leoyo\source\repos\atividade09carro\atividade09carro\bin\Debug\atividade09carro.exe
+C:\Users\leoyo\source\repos\atividade09carro\atividade09carro\bin\Debug\atividade09carro.pdb
+C:\Users\leoyo\source\repos\atividade09carro\atividade09carro\obj\Debug\atividade09carro.csproj.AssemblyReference.cache
+C:\Users\leoyo\source\repos\atividade09carro\atividade09carro\obj\Debug\atividade09carro.csproj.CoreCompileInputs.cache
+C:\Users\leoyo\source\repos\atividade09carro\atividade09carro\obj\Debug\atividade09carro.exe
+C:\Users\leoyo\source\repos\atividade09carro\atividade09carro\obj\Debug\atividade09carro.pdb
